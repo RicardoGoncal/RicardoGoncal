@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
